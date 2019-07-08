@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.deps.json
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\Usuario\Desktop\Prueba Ceiba Soft\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.pdb
